@@ -26,7 +26,7 @@ alias k='kill'
 alias null=’/dev/null’
 
 #   -------------------------------
-#   2. COMMON COMMANDS
+#   2. DIRECTORIES
 #   -------------------------------
 
 alias home='cd ~'
