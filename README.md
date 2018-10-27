@@ -17,4 +17,3 @@ To clone the repo, do the following
 1. `cd`
 1. `git clone https://github.com/agisilaos/dotfiles`
 1. `ln -s ~/.bash_profile ~/.bash_profile`
-
