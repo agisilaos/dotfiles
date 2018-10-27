@@ -1,6 +1,6 @@
 # dotfiles
 
-This reppsitory holds all my BASH configurations and aliases
+This repository holds all my BASH configurations and aliases
 
 ![alt text](https://github.com/agisilaos/dotfiles/blob/master/twitter_screenshot.png)
 
