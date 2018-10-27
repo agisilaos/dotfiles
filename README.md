@@ -1,1 +1,10 @@
 # dotfiles
+
+This reppsitory holds all my BASH configurations and aliases
+
+
+## Why 
+
+Recently I started messing around with the terminal. I always knew about the bash_profile but nothing related to aliases. So after some digging I learned more about aliases and I'm blown away. Aliases can save up so much time using the terminal. After creating my own bash_profile with aliases I decided to open source it. 
+
+My configuration is really simple for now and as I'm learning new things and update my bash_profile, I'm gonna update this repo as well. 
